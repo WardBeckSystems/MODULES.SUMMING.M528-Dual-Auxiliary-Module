@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/SUMMING/M528/MECHANICAL/19xx - M528 - B528-04-001 - M528 DUAL AUXILIARY MODULE - MODULE LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/fbef3a5fa173b34f.svg",
+ "sheet": {
+  "number": "528-04-001",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1106],
+  "mm": [431.8, 238.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.3, 4.5, 426.0, 238.8],
+ "outlines": {
+  "line": {"rings": 311, "straight": {"n": 2535, "mm": 5565.9}, "curved": {"n": 396, "mm": 591.4}},
+  "text": {"rings": 109, "straight": {"n": 740, "mm": 819.4}, "curved": {"n": 179, "mm": 260.3}},
+  "tb": {"rings": 31, "straight": {"n": 275, "mm": 1393.8}, "curved": {"n": 18, "mm": 22.6}}
+ },
+ "circles": [
+  {"c": [20.6, 198.7], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [20.6, 110.3], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [125.7, 109.7], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [125.5, 161.5], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [62.8, 109.6], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [62.7, 154.3], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [62.6, 161.4], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [125.3, 206.2], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [62.6, 206.1], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3}
+ ],
+ "boxes": [
+  {"mm": [42.1, 145.7, 57.4, 154.6], "w": 15.3, "h": 8.9, "from": "ring"},
+  {"mm": [41.2, 125.2, 58.3, 139.5], "w": 17.1, "h": 14.2, "from": "ring"},
+  {"mm": [39.5, 96.9, 46.4, 104.9], "w": 6.9, "h": 8.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [275.1, 219.6, 281.5, 222.7], "text": "WBS"},
+   {"mm": [87.9, 132.6, 100.4, 134.7], "text": "L4VFRSAL"},
+   {"mm": [343.5, 37.1, 426.2, 42.4], "text": "WBS WARD-BeCk SYSTEMS"},
+   {"mm": [375.5, 25.9, 389.9, 31.2], "text": "M528"},
+   {"mm": [347.8, 19.9, 361.8, 25.1], "text": "DUAL"},
+   {"mm": [363.8, 18.8, 417.8, 26.0], "text": "AUXILIARY MODULE"},
+   {"mm": [360.8, 14.0, 406.8, 19.3], "text": "MODULE LAYout"},
+   {"mm": [345.2, 5.4, 375.5, 10.2], "text": "528-04-001"},
+   {"mm": [412.2, 5.4, 422.3, 10.7], "text": "ISS."}
+  ]
+ },
+ "title_block": {"mm": [266.4, 32.5, 431.8, 227.6], "from": "title-block words (training set)", "text": ["WBS", "WBS WARD-BeCk SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 528-04-001, size B (assumed) 432 × 239 mm, 2000 × 1106 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–426 mm across, 4–239 mm up",
+  "- **Outlines:** line 311 rings, 2,535 straight (5,566 mm) / 396 curved (591 mm); text 109 rings, 740 straight (819 mm) / 179 curved (260 mm); tb 31 rings, 275 straight (1,394 mm) / 18 curved (22.6 mm)",
+  "- **Circles and arcs:** 9 circles, 0 arcs; largest r 2.4 @ (20.6, 198.7), r 2.4 @ (20.6, 110.3), r 2.0 @ (125.7, 109.7), r 2.0 @ (125.5, 161.5)",
+  "- **Closed boxes:** 3",
+  "- **Words (OCR):** 11 in 9 lines: WBS · L4VFRSAL · WBS WARD-BeCk SYSTEMS · M528 · DUAL · AUXILIARY MODULE · MODULE LAYout · 528-04-001 · ISS.",
+  "- **Title block:** (266, 32)–(432, 228) mm: WBS · WBS WARD-BeCk SYSTEMS"
+ ]
+}
