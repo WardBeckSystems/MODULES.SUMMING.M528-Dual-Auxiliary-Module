@@ -23,7 +23,7 @@ Wiki page: [M528](../../../../PAGES/M528.md)
 - **Title block:** (318, 35)–(432, 52) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 103 connected wire groups from 233 runs; labelled ends: 91 mm → 5414-1098; 87 mm → DAECT; 84 mm → LEvEL; 65 mm → LFVEL; 60 mm → sumhing, Suvuing
 
-Every curve, box, word and wire group: [19xx - M528 - B 528-01-001 - M528 DUAL AUXILIARY MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20M528%20-%20B%20528-01-001%20-%20M528%20DUAL%20AUXILIARY%20MODULE%20-%20FUNCTIONAL%20(traced).json) (the CAD file: `19xx - M528 - B 528-01-001 - M528 DUAL AUXILIARY MODULE - FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M528 - B 528-01-001 - M528 DUAL AUXILIARY MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20M528%20-%20B%20528-01-001%20-%20M528%20DUAL%20AUXILIARY%20MODULE%20-%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `19xx - M528 - B 528-01-001 - M528 DUAL AUXILIARY MODULE - FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

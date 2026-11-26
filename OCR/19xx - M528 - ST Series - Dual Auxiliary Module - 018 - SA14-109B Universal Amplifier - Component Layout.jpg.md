@@ -11,6 +11,19 @@ Wiki page: [M528](../../../../PAGES/M528.md)
 - **Size:** 1,572,896 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 413 mm, 2000 × 1912 px traced (0.216 mm/px)
+- **Ink extent:** 7–416 mm across, 0–413 mm up
+- **Outlines:** line 241 rings, 3,554 straight (5,798 mm) / 1,000 curved (1,075 mm); text 736 rings, 6,535 straight (6,632 mm) / 2,324 curved (2,740 mm); tb 103 rings, 977 straight (1,407 mm) / 186 curved (202 mm)
+- **Circles and arcs:** 4 circles, 0 arcs; largest r 4.0 @ (128.2, 388.5), r 2.8 @ (137.9, 389.2), r 2.7 @ (16.0, 389.0), r 2.7 @ (16.7, 219.0)
+- **Closed boxes:** 5; named: PN3569 PN645 P2-17 011 012 R3I 648 R38 6
+- **Dots (junctions):** 1
+- **Words (OCR):** 111 in 80 lines: PN3569 · PN645 · 011 · P2-17 · 012 · R3I 648 R38 6_8 · C17 14-109 · R17 430 R2o 430 · 22/25 · C18 · ISSUE · 0. 1/100
+- **Title block:** (112, 65)–(425, 384) mm: C17 14-109 · ISSUE · R21 22 · PN · 36 69 · 03) 35(04 · R3O JOK R28 LOK · 4K7 · 98 · 02 4036 · R3S & 8 R32 6.8 · R34 6 8 · R33 6 8 · 220/10 · C19 · R40 AZK R39 AZK · LI · 1OOUH · R42 620 · WBS WARD-BEC
+
+Every curve, box, word and wire group: [19xx - M528 - ST Series - Dual Auxiliary Module - 018 - SA14-109B Universal Amplifier - Component Layout (traced).json](../SCHEMATICS/19xx%20-%20M528%20-%20ST%20Series%20-%20Dual%20Auxiliary%20Module%20-%20018%20-%20SA14-109B%20Universal%20Amplifier%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `19xx - M528 - ST Series - Dual Auxiliary Module - 018 - SA14-109B Universal Amplifier - Component Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

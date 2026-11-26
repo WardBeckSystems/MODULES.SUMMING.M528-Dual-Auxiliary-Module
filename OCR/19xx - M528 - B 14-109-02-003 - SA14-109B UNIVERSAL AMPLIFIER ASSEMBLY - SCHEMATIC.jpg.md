@@ -23,7 +23,7 @@ Wiki page: [M528](../../../../PAGES/M528.md)
 - **Title block:** (315, 38)–(432, 60) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 78 connected wire groups from 573 runs; labelled ends: 184 mm → Sk6, 7kS; 111 mm → R3B, T2z/25, RzO; 109 mm → Rie, Rz7, 7k5, 04756q; 108 mm → R1s, 22/25; 107 mm → 6k2
 
-Every curve, box, word and wire group: [19xx - M528 - B 14-109-02-003 - SA14-109B UNIVERSAL AMPLIFIER ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M528%20-%20B%2014-109-02-003%20-%20SA14-109B%20UNIVERSAL%20AMPLIFIER%20ASSEMBLY%20-%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M528 - B 14-109-02-003 - SA14-109B UNIVERSAL AMPLIFIER ASSEMBLY - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M528 - B 14-109-02-003 - SA14-109B UNIVERSAL AMPLIFIER ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M528%20-%20B%2014-109-02-003%20-%20SA14-109B%20UNIVERSAL%20AMPLIFIER%20ASSEMBLY%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M528 - B 14-109-02-003 - SA14-109B UNIVERSAL AMPLIFIER ASSEMBLY - SCHEMATIC (traced).dxf`).
 
 ## Full text
 
