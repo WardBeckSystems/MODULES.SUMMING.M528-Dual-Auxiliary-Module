@@ -1,16 +1,16 @@
-# M528 · Summing
+# M528 Dual Auxiliary Module · Summing
 
 Ward-Beck Systems M528. Wiki page: [M528 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M528.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 17 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 10 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 17 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 21 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 14 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 18 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 25 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -24,7 +24,7 @@ Ward-Beck Systems M528. Wiki page: [M528 on WBSps.ca](https://wardbecksystems.gi
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1XAs5ogYdmX6yThak7TLHdlQQQh3JcfQJ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1XAs5ogYdmX6yThak7TLHdlQQQh3JcfQJ" width="240" alt="19xx - M528 - B528-04-001 - M528 DUAL AUXILIARY MODULE - MODULE LAYOUT.jpg"></a><br><sub>19xx - M528 - B528-04-001 - M528 DUAL AUXILIARY MODULE - MODULE LAYOUT · <a href="MECHANICAL/19xx%20-%20M528%20-%20B528-04-001%20-%20M528%20DUAL%20AUXILIARY%20MODULE%20-%20MODULE%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaWViNDhLN3d3dG8/view?resourcekey=0-PTagK9et3KOWTYmmtzEGOA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaWViNDhLN3d3dG8&resourcekey=0-PTagK9et3KOWTYmmtzEGOA" width="240" alt="19xx - M528 - DOC - 2442-04-002 - MIC-LINE TEREO LIHE JLANR UHPUT SELECTORS LZI INPUT.jpg"></a><br><sub>19xx - M528 - DOC - 2442-04-002 - MIC-LINE TEREO LIHE JLANR UHPUT SELECTORS LZI INPUT</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNzFkNEVaa3kwQTA/view?resourcekey=0-hoXaR6VBCYye67K1tKMBPQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNzFkNEVaa3kwQTA&resourcekey=0-hoXaR6VBCYye67K1tKMBPQ" width="240" alt="19xx - M528 - DOC - 528-04-001 - FRONT PANEL LAYOUT ARP.jpg"></a><br><sub>19xx - M528 - DOC - 528-04-001 - FRONT PANEL LAYOUT ARP</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1XAs5ogYdmX6yThak7TLHdlQQQh3JcfQJ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1XAs5ogYdmX6yThak7TLHdlQQQh3JcfQJ" width="240" alt="19xx - M528 - B528-04-001 - M528 DUAL AUXILIARY MODULE - MODULE LAYOUT.jpg"></a><br><sub>19xx - M528 - B528-04-001 - M528 DUAL AUXILIARY MODULE - MODULE LAYOUT · <a href="MECHANICAL/19xx%20-%20M528%20-%20B528-04-001%20-%20M528%20DUAL%20AUXILIARY%20MODULE%20-%20MODULE%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaWViNDhLN3d3dG8/view?resourcekey=0-PTagK9et3KOWTYmmtzEGOA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaWViNDhLN3d3dG8&resourcekey=0-PTagK9et3KOWTYmmtzEGOA" width="240" alt="19xx - M528 - DOC - 2442-04-002 - MIC-LINE TEREO LIHE JLANR UHPUT SELECTORS LZI INPUT.jpg"></a><br><sub>19xx - M528 - DOC - 2442-04-002 - MIC-LINE TEREO LIHE JLANR UHPUT SELECTORS LZI INPUT · <a href="MECHANICAL/19xx%20-%20M528%20-%20DOC%20-%202442-04-002%20-%20MIC-LINE%20TEREO%20LIHE%20JLANR%20UHPUT%20SELECTORS%20LZI%20INPUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNzFkNEVaa3kwQTA/view?resourcekey=0-hoXaR6VBCYye67K1tKMBPQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNzFkNEVaa3kwQTA&resourcekey=0-hoXaR6VBCYye67K1tKMBPQ" width="240" alt="19xx - M528 - DOC - 528-04-001 - FRONT PANEL LAYOUT ARP.jpg"></a><br><sub>19xx - M528 - DOC - 528-04-001 - FRONT PANEL LAYOUT ARP · <a href="MECHANICAL/19xx%20-%20M528%20-%20DOC%20-%20528-04-001%20-%20FRONT%20PANEL%20LAYOUT%20ARP%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 ## Schematics
@@ -33,7 +33,7 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1h6e-ua-oAhF_rLtB87ONgz-oa_LyebG0/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1h6e-ua-oAhF_rLtB87ONgz-oa_LyebG0" width="240" alt="19xx - M528 - B 14-109-02-003 - SA14-109B UNIVERSAL AMPLIFIER ASSEMBLY - SCHEMATIC.jpg"></a><br><sub>19xx - M528 - B 14-109-02-003 - SA14-109B UNIVERSAL AMPLIFIER ASSEMBLY - SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M528%20-%20B%2014-109-02-003%20-%20SA14-109B%20UNIVERSAL%20AMPLIFIER%20ASSEMBLY%20-%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1tf8I7FT4E2k2Kv3IT_tv6O-PUEZXfbpx/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1tf8I7FT4E2k2Kv3IT_tv6O-PUEZXfbpx" width="240" alt="19xx - M528 - B 528-01-001 - M528 DUAL AUXILIARY MODULE - FUNCTIONAL.jpg"></a><br><sub>19xx - M528 - B 528-01-001 - M528 DUAL AUXILIARY MODULE - FUNCTIONAL · <a href="SCHEMATICS/19xx%20-%20M528%20-%20B%20528-01-001%20-%20M528%20DUAL%20AUXILIARY%20MODULE%20-%20FUNCTIONAL%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1HzhDj2bQ0cljTuFFRP5cQxo0tODfrGg2/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1HzhDj2bQ0cljTuFFRP5cQxo0tODfrGg2" width="240" alt="19xx - M528 - B 528-02-001 - M528 DUAL AUXILIARY MODULE - SCHEMATIC.jpg"></a><br><sub>19xx - M528 - B 528-02-001 - M528 DUAL AUXILIARY MODULE - SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M528%20-%20B%20528-02-001%20-%20M528%20DUAL%20AUXILIARY%20MODULE%20-%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/18hx7_mxYOsGAZr0Hipof68XNKdQAvh77/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=18hx7_mxYOsGAZr0Hipof68XNKdQAvh77" width="240" alt="19xx - M528 - B 528-06-001 - M528 DUAL AUXILIARY MODULE - COMPONENT LAYOUT.jpg"></a><br><sub>19xx - M528 - B 528-06-001 - M528 DUAL AUXILIARY MODULE - COMPONENT LAYOUT · <a href="SCHEMATICS/19xx%20-%20M528%20-%20B%20528-06-001%20-%20M528%20DUAL%20AUXILIARY%20MODULE%20-%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1mJwxqZpazHEv0fqQXf_qs8KrEy345HlZ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1mJwxqZpazHEv0fqQXf_qs8KrEy345HlZ" width="240" alt="19xx - M528 - ST Series - Dual Auxiliary Module - 018 - SA14-109B Universal Amplifier - Component Layout.jpg"></a><br><sub>19xx - M528 - ST Series - Dual Auxiliary Module - 018 - SA14-109B Universal Amplifier - Component Layout</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/18hx7_mxYOsGAZr0Hipof68XNKdQAvh77/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=18hx7_mxYOsGAZr0Hipof68XNKdQAvh77" width="240" alt="19xx - M528 - B 528-06-001 - M528 DUAL AUXILIARY MODULE - COMPONENT LAYOUT.jpg"></a><br><sub>19xx - M528 - B 528-06-001 - M528 DUAL AUXILIARY MODULE - COMPONENT LAYOUT · <a href="SCHEMATICS/19xx%20-%20M528%20-%20B%20528-06-001%20-%20M528%20DUAL%20AUXILIARY%20MODULE%20-%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1mJwxqZpazHEv0fqQXf_qs8KrEy345HlZ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1mJwxqZpazHEv0fqQXf_qs8KrEy345HlZ" width="240" alt="19xx - M528 - ST Series - Dual Auxiliary Module - 018 - SA14-109B Universal Amplifier - Component Layout.jpg"></a><br><sub>19xx - M528 - ST Series - Dual Auxiliary Module - 018 - SA14-109B Universal Amplifier - Component Layout · <a href="SCHEMATICS/19xx%20-%20M528%20-%20ST%20Series%20-%20Dual%20Auxiliary%20Module%20-%20018%20-%20SA14-109B%20Universal%20Amplifier%20-%20Component%20Layout%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 ## Manuals and documents
@@ -57,6 +57,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M528 - B 528-01-001 - M528 DUAL AUXILIARY MODULE - FUNCTIONAL.kicad_sch](KICAD/19xx%20-%20M528%20-%20B%20528-01-001%20-%20M528%20DUAL%20AUXILIARY%20MODULE%20-%20FUNCTIONAL.kicad_sch)
 - [19xx - M528 - B 528-02-001 - M528 DUAL AUXILIARY MODULE - SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M528%20-%20B%20528-02-001%20-%20M528%20DUAL%20AUXILIARY%20MODULE%20-%20SCHEMATIC.kicad_sch)
 - [M528.kicad_sym](KICAD/M528.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
