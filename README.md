@@ -1,6 +1,6 @@
 # M528 Dual Auxiliary Module · Summing
 
-Ward-Beck Systems M528. Wiki page: [M528 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M528.html)
+Ward-Beck Systems M528. Wiki page: [M528 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M528-Dual-Auxiliary-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

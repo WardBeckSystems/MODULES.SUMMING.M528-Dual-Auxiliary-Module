@@ -1,5 +1,5 @@
 # 19xx - M528 - ST Series - Dual Auxiliary Module - 013 - SA14-109B Universal Amplifier.jpg
-Wiki page: [M528](../../../../PAGES/M528.md)
+Wiki page: [M528](../)
 
 
 - **Year:** unknown (unknown)

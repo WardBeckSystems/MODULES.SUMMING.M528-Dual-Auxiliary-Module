@@ -1,5 +1,5 @@
 # 19xx - M528 - B528-04-001 - M528 DUAL AUXILIARY MODULE - MODULE LAYOUT.jpg
-Wiki page: [M528](../../../../PAGES/M528.md)
+Wiki page: [M528](../)
 
 
 - **Year:** unknown (unknown)

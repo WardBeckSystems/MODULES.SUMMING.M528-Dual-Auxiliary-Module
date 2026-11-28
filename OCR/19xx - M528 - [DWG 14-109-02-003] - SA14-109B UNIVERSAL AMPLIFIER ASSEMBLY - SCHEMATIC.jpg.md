@@ -1,5 +1,5 @@
 # 19xx - M528 - B 14-109-02-003 - SA14-109B UNIVERSAL AMPLIFIER ASSEMBLY - SCHEMATIC.jpg
-Wiki page: [M528](../../../../PAGES/M528.md)
+Wiki page: [M528](../)
 
 
 - **Year:** unknown (unknown)

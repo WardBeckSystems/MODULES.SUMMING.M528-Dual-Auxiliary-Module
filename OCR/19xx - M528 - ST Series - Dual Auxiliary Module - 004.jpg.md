@@ -1,5 +1,5 @@
 # 19xx - M528 - ST Series - Dual Auxiliary Module - 004.jpg
-Wiki page: [M528](../../../../PAGES/M528.md)
+Wiki page: [M528](../)
 
 
 - **Year:** unknown (unknown)
