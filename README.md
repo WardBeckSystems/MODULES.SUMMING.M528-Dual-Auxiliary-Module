@@ -27,6 +27,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1XAs5ogYdmX6yThak7TLHdlQQQh3JcfQJ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1XAs5ogYdmX6yThak7TLHdlQQQh3JcfQJ" width="240" alt="19xx - M528 - B528-04-001 - M528 DUAL AUXILIARY MODULE - MODULE LAYOUT.jpg"></a><br><sub>19xx - M528 - B528-04-001 - M528 DUAL AUXILIARY MODULE - MODULE LAYOUT · <a href="MECHANICAL/19xx%20-%20M528%20-%20B528-04-001%20-%20M528%20DUAL%20AUXILIARY%20MODULE%20-%20MODULE%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaWViNDhLN3d3dG8/view?resourcekey=0-PTagK9et3KOWTYmmtzEGOA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaWViNDhLN3d3dG8&resourcekey=0-PTagK9et3KOWTYmmtzEGOA" width="240" alt="19xx - M528 - DOC - 2442-04-002 - MIC-LINE TEREO LIHE JLANR UHPUT SELECTORS LZI INPUT.jpg"></a><br><sub>19xx - M528 - DOC - 2442-04-002 - MIC-LINE TEREO LIHE JLANR UHPUT SELECTORS LZI INPUT · <a href="MECHANICAL/19xx%20-%20M528%20-%20DOC%20-%202442-04-002%20-%20MIC-LINE%20TEREO%20LIHE%20JLANR%20UHPUT%20SELECTORS%20LZI%20INPUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNzFkNEVaa3kwQTA/view?resourcekey=0-hoXaR6VBCYye67K1tKMBPQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNzFkNEVaa3kwQTA&resourcekey=0-hoXaR6VBCYye67K1tKMBPQ" width="240" alt="19xx - M528 - DOC - 528-04-001 - FRONT PANEL LAYOUT ARP.jpg"></a><br><sub>19xx - M528 - DOC - 528-04-001 - FRONT PANEL LAYOUT ARP · <a href="MECHANICAL/19xx%20-%20M528%20-%20DOC%20-%20528-04-001%20-%20FRONT%20PANEL%20LAYOUT%20ARP%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M528.stl`](MECHANICAL/M528.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M528)
+
+- **Size:** 76.21 × 284.99 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 2 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M528 - front panel.svg`)
+- the drawn panel is 0.23 wide to high, the size 0.27: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M528.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
