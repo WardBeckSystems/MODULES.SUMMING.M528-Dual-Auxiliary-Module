@@ -22,7 +22,7 @@ Wiki page: [M528](../../../../PAGES/M528.md)
 - **Words (OCR):** 111 in 80 lines: PN3569 · PN645 · 011 · P2-17 · 012 · R3I 648 R38 6_8 · C17 14-109 · R17 430 R2o 430 · 22/25 · C18 · ISSUE · 0. 1/100
 - **Title block:** (112, 65)–(425, 384) mm: C17 14-109 · ISSUE · R21 22 · PN · 36 69 · 03) 35(04 · R3O JOK R28 LOK · 4K7 · 98 · 02 4036 · R3S & 8 R32 6.8 · R34 6 8 · R33 6 8 · 220/10 · C19 · R40 AZK R39 AZK · LI · 1OOUH · R42 620 · WBS WARD-BEC
 
-Every curve, box, word and wire group: [19xx - M528 - ST Series - Dual Auxiliary Module - 018 - SA14-109B Universal Amplifier - Component Layout (traced).json](../SCHEMATICS/19xx%20-%20M528%20-%20ST%20Series%20-%20Dual%20Auxiliary%20Module%20-%20018%20-%20SA14-109B%20Universal%20Amplifier%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `19xx - M528 - ST Series - Dual Auxiliary Module - 018 - SA14-109B Universal Amplifier - Component Layout (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M528 - [DWG 14-109-06-003] - ST Series - Dual Auxiliary Module - 018 - SA14-109B Universal Amplifier - Component Layout (traced).json](../SCHEMATICS/19xx%20-%20M528%20-%20%5BDWG%2014-109-06-003%5D%20-%20ST%20Series%20-%20Dual%20Auxiliary%20Module%20-%20018%20-%20SA14-109B%20Universal%20Amplifier%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `19xx - M528 - [DWG 14-109-06-003] - ST Series - Dual Auxiliary Module - 018 - SA14-109B Universal Amplifier - Component Layout (traced).dxf`).
 
 ## Full text
 
@@ -41,7 +41,7 @@ ISS. 1
 
 ```json
 {
- "file": "Modules/SUMMING/M528/SCHEMATICS/19xx - M528 - ST Series - Dual Auxiliary Module - 018 - SA14-109B Universal Amplifier - Component Layout.jpg",
+ "file": "Modules/SUMMING/M528/SCHEMATICS/19xx - M528 - [DWG 14-109-06-003] - ST Series - Dual Auxiliary Module - 018 - SA14-109B Universal Amplifier - Component Layout.jpg",
  "sha256": "ab0597b338214a085c1504d4fe1f647e576b3152145077862ebe745274030208",
  "kind": "module",
  "models": [
